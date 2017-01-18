@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Anvita Gupta</title>
+ <link href="http://web.stanford.edu/atom.xml" rel="self"/>
+ <link href="http://web.stanford.edu/"/>
+ <updated>2017-01-17T18:53:49-08:00</updated>
+ <id>http://web.stanford.edu</id>
+ <author>
+   <name>Anvita Gupta</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Welcome</title>
+   <link href="http://web.stanford.edu/2017/01/02/hello/"/>
+   <updated>2017-01-02T00:00:00-08:00</updated>
+   <id>http://web.stanford.edu/2017/01/02/hello</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;anvita_profile.jpg&quot; alt=&quot;Anvita_Gupta&quot; style=&quot;height: 200px;&quot;/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hello and Welcome to my website!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I&amp;#39;m Anvita, an undergraduate majoring in Computer Science (Biocomputation Track) at Stanford University.&lt;/strong&gt; &lt;/p&gt;
+
+&lt;p&gt;To find out more about me, check out my &lt;a href=&quot;about&quot;&gt;About&lt;/a&gt; page. &lt;/p&gt;
+
+&lt;p&gt;For details on my projects, visit &lt;a href=&quot;cs_projects&quot;&gt;CS Research&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;Or for more about my nonprofit, &lt;a href=&quot;nonprofit&quot;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;Connect with me:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/avgupta_me&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/avgupta/&quot;&gt;Linkedin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/av1659/&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/@avgupta&quot;&gt;Medium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;mailto:avgupta@stanford.edu&quot;&gt;Good old email&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;*Due to the proprietary nature of many of my projects (e.g. drug discovery) most of my code is in private repos. If you have any specific questions/requests, however, feel free to &lt;a href=&quot;mailto:avgupta@stanford.edu&quot;&gt;send me an email&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

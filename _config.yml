@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Anvita Gupta
+tagline:          'A Jekyll theme'
+description:      'Stanford CS, Deep Learning + Bioinformatics Afficionado'
+url:              http://web.stanford.edu
+baseurl:          /~avgupta/ 
+
+author:
+  name:           'Anvita Gupta'
+  url:            https://twitter.com/
+
+paginate:         5
+
+# Custom vars
+
+github:
+  repo:          https://github.com/av1659/ 
+
+# Gems
+gems: [jekyll-paginate, jekyll-gist]
+paginate_path: "page:num"
+
+
